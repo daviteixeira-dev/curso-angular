@@ -1,2 +1,2 @@
-# moments
-Project using the Angular framework
+# curso-angular
+Course to learn about the Angular framework
